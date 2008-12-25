@@ -8,6 +8,7 @@
 
 /**
  * VimLauncherのプロトタイプ
+ *
  */
 var VimLauncher=function(){};
 VimLauncher.prototype={
